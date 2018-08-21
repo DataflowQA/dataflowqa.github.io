@@ -1,3 +1,4 @@
+# 
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -25,9 +26,11 @@ github_username:  dataflowqa
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-prologue
 plugins:
   - jekyll-feed
+
+collections: [sections]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
