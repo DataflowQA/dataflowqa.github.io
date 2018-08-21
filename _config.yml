@@ -26,7 +26,8 @@ github_username:  dataflowqa
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-prologue
+# theme: jekyll-theme-prologue
+remote_theme: chrisbobbe/jekyll-theme-prologue
 plugins:
   - jekyll-feed
 
